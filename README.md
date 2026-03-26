@@ -20,7 +20,7 @@ The main goal of the project is to:
 
 ## 🚀 Live Demo
 
-> 🔗 _(Add your deployed link here — e.g. Vercel / Netlify)_
+> 🔗 [_(Add your deployed link here — e.g. Vercel / Netlify)_](https://sabak-alriyadh.vercel.app/)
 
 ---
 

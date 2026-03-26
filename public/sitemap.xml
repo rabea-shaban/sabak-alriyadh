@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset 
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://sibak.rabea-shaban.com/</loc>
+    <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://sibak.rabea-shaban.com/about</loc>
+    <priority>0.6</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://sibak.rabea-shaban.com/services</loc>
+    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url><loc>https://sibak.rabea-shaban.com/services/leak-detection</loc></url>
+  <url><loc>https://sibak.rabea-shaban.com/services/pipe-repair</loc></url>
+  <url><loc>https://sibak.rabea-shaban.com/services/heater-installation</loc></url>
+  <url><loc>https://sibak.rabea-shaban.com/services/drain-cleaning</loc></url>
+  <url><loc>https://sibak.rabea-shaban.com/services/faucet-installation</loc></url>
+  <url><loc>https://sibak.rabea-shaban.com/services/kitchen-bathroom</loc></url>
+  <url><loc>https://sibak.rabea-shaban.com/services/maintenance</loc></url>
+
+  <url>
+    <loc>https://sibak.rabea-shaban.com/best-services</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://sibak.rabea-shaban.com/testimonials</loc>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://sibak.rabea-shaban.com/contact</loc>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://sibak.rabea-shaban.com/sitemap</loc>
+    <priority>0.4</priority>
+  </url>
+
+</urlset>
